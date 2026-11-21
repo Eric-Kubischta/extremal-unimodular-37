@@ -1,5 +1,7 @@
 # The Cayley lattice: an extremal unimodular lattice in rank 37
 
+![Language: Magma](https://img.shields.io/badge/language-Magma-47627a.svg)
+
 Magma code accompanying [arXiv:2611.07138](https://arxiv.org/abs/2611.07138).
 
 These files describe the **Cayley lattice** $\Lambda$ from the paper: an odd, extremal unimodular lattice of rank 37.
