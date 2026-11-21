@@ -1,3 +1,4 @@
-# Magma uses the .m extension, shared with MATLAB and Mathematica.
-# GitHub Linguist does not currently recognize Magma.
-*.m linguist-language=Text -linguist-detectable
+# Magma sources use .m, which GitHub otherwise mistakes for MATLAB or Mathematica.
+# Treat these files as plain text and exclude them from language statistics.
+*.m linguist-language=Text
+*.m -linguist-detectable
